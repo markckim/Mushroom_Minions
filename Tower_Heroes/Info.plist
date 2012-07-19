@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Tower Heroes</string>
 	<key>CFBundleExecutable</key>
-	<string>${EXECUTABLE_NAME}</string>
+	<string>Tower Heroes</string>
 	<key>CFBundleIconFiles</key>
 	<array>
 		<string>Icon@2x.png</string>

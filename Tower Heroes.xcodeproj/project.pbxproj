@@ -12,6 +12,10 @@
 		FE06D0761545EE8E00511B17 /* PreLoadLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = FE06D0751545EE8E00511B17 /* PreLoadLayer.m */; };
 		FE296F8715764B4C0011F971 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = FE296F8615764B4C0011F971 /* libsqlite3.dylib */; };
 		FE296F8915764B570011F971 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = FE296F8815764B570011F971 /* libz.dylib */; };
+		FE29C28615B807A900C78BB8 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FE29C28415B807A900C78BB8 /* Icon.png */; };
+		FE29C28715B807A900C78BB8 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE29C28515B807A900C78BB8 /* Icon@2x.png */; };
+		FE29C28B15B808D200C78BB8 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FE29C28915B808D200C78BB8 /* Default.png */; };
+		FE29C28C15B808D200C78BB8 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FE29C28A15B808D200C78BB8 /* Default@2x.png */; };
 		FE2B3618156D0E7700528A2A /* death_sound_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = FE2B3617156D0E7600528A2A /* death_sound_1.wav */; };
 		FE2B361A156D0E8500528A2A /* sword_hit_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = FE2B3619156D0E8500528A2A /* sword_hit_1.wav */; };
 		FE2B361F156D0E9900528A2A /* hit_sound_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = FE2B361B156D0E9800528A2A /* hit_sound_1.wav */; };
@@ -363,6 +367,10 @@
 		FE06D0751545EE8E00511B17 /* PreLoadLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreLoadLayer.m; sourceTree = "<group>"; };
 		FE296F8615764B4C0011F971 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		FE296F8815764B570011F971 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		FE29C28415B807A900C78BB8 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		FE29C28515B807A900C78BB8 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		FE29C28915B808D200C78BB8 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		FE29C28A15B808D200C78BB8 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		FE2B3617156D0E7600528A2A /* death_sound_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = death_sound_1.wav; sourceTree = "<group>"; };
 		FE2B3619156D0E8500528A2A /* sword_hit_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sword_hit_1.wav; sourceTree = "<group>"; };
 		FE2B361B156D0E9800528A2A /* hit_sound_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hit_sound_1.wav; sourceTree = "<group>"; };
@@ -1206,6 +1214,10 @@
 		FE72E94315652154001F314A /* Non-Batch */ = {
 			isa = PBXGroup;
 			children = (
+				FE29C28915B808D200C78BB8 /* Default.png */,
+				FE29C28A15B808D200C78BB8 /* Default@2x.png */,
+				FE29C28415B807A900C78BB8 /* Icon.png */,
+				FE29C28515B807A900C78BB8 /* Icon@2x.png */,
 				FEC58C2D1581A98300307449 /* cover_1-hd.png */,
 				FEC58C2E1581A98300307449 /* cover_1.png */,
 				FEDEEB6D157241D600A86B0D /* nonbatchatlas-hd.plist */,
@@ -1445,8 +1457,8 @@
 		FEC55A8515198EF60099C843 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				FEA19BBB157096A900D38862 /* Help Screens */,
 				FE72E94315652154001F314A /* Non-Batch */,
+				FEA19BBB157096A900D38862 /* Help Screens */,
 				FE09E52D1540FE140089FA2E /* Text */,
 				FE8E14C1155A4F58002FD9A7 /* Background */,
 				FE8E14C0155A4F2A002FD9A7 /* Batch */,
@@ -2274,6 +2286,10 @@
 				FEC58C2F1581A98300307449 /* cover_1-hd.png in Resources */,
 				FEC58C301581A98300307449 /* cover_1.png in Resources */,
 				FEA37ED915B8021D00B4DDBA /* Info.plist in Resources */,
+				FE29C28615B807A900C78BB8 /* Icon.png in Resources */,
+				FE29C28715B807A900C78BB8 /* Icon@2x.png in Resources */,
+				FE29C28B15B808D200C78BB8 /* Default.png in Resources */,
+				FE29C28C15B808D200C78BB8 /* Default@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
