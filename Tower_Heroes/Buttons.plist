@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>playButtonAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,4,3,2</string>
+		<key>unitDelay</key>
+		<real>0.12</real>
+		<key>filenamePrefix</key>
+		<string>main_play_button_</string>
+	</dict>
+	<key>optionButtonAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,6</string>
+		<key>unitDelay</key>
+		<real>0.12</real>
+		<key>filenamePrefix</key>
+		<string>main_option_button_</string>
+	</dict>
+</dict>
+</plist>

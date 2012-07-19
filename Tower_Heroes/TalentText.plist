@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hero1</key>
+	<dict>
+		<key>ArmorPiercing1</key>
+		<string>10% chance to ignore armor</string>
+		<key>ArmorPiercing2</key>
+		<string>20% chance to ignore armor</string>
+		<key>ArmorPiercing3</key>
+		<string>30% chance to ignore armor</string>
+		<key>ArmorPiercing4</key>
+		<string>40% chance to ignore armor</string>
+		<key>ArmorPiercing5</key>
+		<string>50% chance to ignore armor</string>
+		<key>ImprovedMines1</key>
+		<string>-1 sec for Mines</string>
+		<key>ImprovedMines2</key>
+		<string>-2 sec for Mines</string>
+		<key>ImprovedMines3</key>
+		<string>-3 sec for Mines</string>
+		<key>ImprovedMines4</key>
+		<string>-4 sec for Mines</string>
+		<key>ImprovedMines5</key>
+		<string>-5 sec for Mines</string>
+		<key>BulletPropulsion1</key>
+		<string>+1 range</string>
+		<key>BulletPropulsion2</key>
+		<string>+2 range</string>
+		<key>BulletPropulsion3</key>
+		<string>+3 range</string>
+		<key>BulletPropulsion4</key>
+		<string>+4 range</string>
+		<key>BulletPropulsion5</key>
+		<string>+5 range</string>
+		<key>Optimization1</key>
+		<string>+2% accuracy</string>
+		<key>Optimization2</key>
+		<string>+4% accuracy</string>
+		<key>Optimization3</key>
+		<string>+6% accuracy</string>
+		<key>Optimization4</key>
+		<string>+8% accuracy</string>
+		<key>Optimization5</key>
+		<string>+10% accuracy</string>
+		<key>TowerCooling1</key>
+		<string>-1 sec for Overclock</string>
+		<key>TowerCooling2</key>
+		<string>-2 sec for Overclock</string>
+		<key>TowerCooling3</key>
+		<string>-3 sec for Overclock</string>
+		<key>TowerCooling4</key>
+		<string>-4 sec for Overclock</string>
+		<key>TowerCooling5</key>
+		<string>-5 sec for Overclock</string>
+	</dict>
+	<key>Hero2</key>
+	<dict>
+		<key>FocusedFire1</key>
+		<string>+10% critical to Smite</string>
+		<key>FocusedFire2</key>
+		<string>+20% critical to Smite</string>
+		<key>FocusedFire3</key>
+		<string>+30% critical to Smite</string>
+		<key>FocusedFire4</key>
+		<string>+40% critical to Smite</string>
+		<key>FocusedFire5</key>
+		<string>+50% critical to Smite</string>
+		<key>ImprovedSmite1</key>
+		<string>+10% damage to Smite</string>
+		<key>ImprovedSmite2</key>
+		<string>+20% damage to Smite</string>
+		<key>ImprovedSmite3</key>
+		<string>+30% damage to Smite</string>
+		<key>ImprovedSmite4</key>
+		<string>+40% damage to Smite</string>
+		<key>ImprovedSmite5</key>
+		<string>+50% damage to Smite</string>
+		<key>DeepFreeze1</key>
+		<string>+5% slow to Freeze</string>
+		<key>DeepFreeze2</key>
+		<string>+10% slow to Freeze</string>
+		<key>DeepFreeze3</key>
+		<string>+15% slow to Freeze</string>
+		<key>DeepFreeze4</key>
+		<string>+20% slow to Freeze</string>
+		<key>DeepFreeze5</key>
+		<string>+25% slow to Freeze</string>
+		<key>ImprovedPoison1</key>
+		<string>+5 damage to Poison</string>
+		<key>ImprovedPoison2</key>
+		<string>+10 damage to Poison</string>
+		<key>ImprovedPoison3</key>
+		<string>+15 damage to Poison</string>
+		<key>ImprovedPoison4</key>
+		<string>+20 damage to Poison</string>
+		<key>ImprovedPoison5</key>
+		<string>+25 damage to Poison</string>
+		<key>ImprovedBlizzard1</key>
+		<string>-1 sec to Blizzard</string>
+		<key>ImprovedBlizzard2</key>
+		<string>-2 sec to Blizzard</string>
+		<key>ImprovedBlizzard3</key>
+		<string>-3 sec to Blizzard</string>
+		<key>ImprovedBlizzard4</key>
+		<string>-4 sec to Blizzard</string>
+		<key>ImprovedBlizzard5</key>
+		<string>-5 sec to Blizzard</string>
+	</dict>
+	<key>Hero3</key>
+	<dict>
+		<key>Nirvana1</key>
+		<string>+7% firing rate</string>
+		<key>Nirvana2</key>
+		<string>+14% firing rate</string>
+		<key>Nirvana3</key>
+		<string>+21% firing rate</string>
+		<key>Nirvana4</key>
+		<string>+28% firing rate</string>
+		<key>Nirvana5</key>
+		<string>+35% firing rate</string>
+		<key>ImprovedMeditation1</key>
+		<string>-1 sec to Meditate</string>
+		<key>ImprovedMeditation2</key>
+		<string>-2 sec to Meditate</string>
+		<key>ImprovedMeditation3</key>
+		<string>-3 sec to Meditate</string>
+		<key>ImprovedMeditation4</key>
+		<string>-4 sec to Meditate</string>
+		<key>ImprovedMeditation5</key>
+		<string>-5 sec to Meditate</string>
+		<key>ImprovedSlow1</key>
+		<string>+5% effect to Slow</string>
+		<key>ImprovedSlow2</key>
+		<string>+10% effect to Slow</string>
+		<key>ImprovedSlow3</key>
+		<string>+15% effect to Slow</string>
+		<key>ImprovedSlow4</key>
+		<string>+20% effect to Slow</string>
+		<key>ImprovedSlow5</key>
+		<string>+25% effect to Slow</string>
+		<key>Sharpshooter1</key>
+		<string>+1% accuracy, +2% critical</string>
+		<key>Sharpshooter2</key>
+		<string>+2% accuracy, +4% critical</string>
+		<key>Sharpshooter3</key>
+		<string>+3% accuracy, +6% critical</string>
+		<key>Sharpshooter4</key>
+		<string>+4% accuracy, +8% critical</string>
+		<key>Sharpshooter5</key>
+		<string>+5% accuracy, +10% critical</string>
+		<key>ImprovedRage1</key>
+		<string>-1 sec to Rage</string>
+		<key>ImprovedRage2</key>
+		<string>-2 sec to Rage</string>
+		<key>ImprovedRage3</key>
+		<string>-3 sec to Rage</string>
+		<key>ImprovedRage4</key>
+		<string>-4 sec to Rage</string>
+		<key>ImprovedRage5</key>
+		<string>-5 sec to Rage</string>
+	</dict>
+	<key>Talent Description</key>
+	<dict>
+		<key>Optimization</key>
+		<string>Increase accuracy of all towers by 2% per talent point</string>
+		<key>TowerCooling</key>
+		<string>Reduce cooldown on Overclock by 1 second per talent point</string>
+		<key>ImprovedMines</key>
+		<string>Reduce cooldown on Mines by 1 second per talent point</string>
+		<key>BulletPropulsion</key>
+		<string>Increase range of all towers by 1 per talent point</string>
+		<key>ArmorPiercing</key>
+		<string>Bullets have chance to ignore armor by 10% per talent point</string>
+		<key>ImprovedBlizzard</key>
+		<string>Reduce cooldown on Blizzard by 1 second per talent point</string>
+		<key>ImprovedPoison</key>
+		<string>Increase total Poison damage over time by 5 per talent point</string>
+		<key>ImprovedSmite</key>
+		<string>Increase damage inflicted by Smite by 10% per talent point</string>
+		<key>DeepFreeze</key>
+		<string>Increase freeze effects from Blizzard and Ice Towers by 5% per talent point</string>
+		<key>FocusedFire</key>
+		<string>Increase chance of critical hit from Smite by 10% per talent point</string>
+		<key>Sharpshooter</key>
+		<string>Increase accuracy by 1% and critical by 2% for all towers per talent point</string>
+		<key>ImprovedRage</key>
+		<string>Reduce cooldown on Rage by 1 second per talent point</string>
+		<key>ImprovedMeditation</key>
+		<string>Reduce cooldown on Meditate by 1 second per talent point</string>
+		<key>ImprovedSlow</key>
+		<string>Increase Slow effect by 5% per talent point</string>
+		<key>Nirvana</key>
+		<string>Increase firing rate of all towers by 7% per talent point</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explosionAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,6,7,8</string>
+		<key>unitDelay</key>
+		<real>0.05</real>
+		<key>filenamePrefix</key>
+		<string>towerice_explosion_</string>
+	</dict>
+	<key>movementAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</string>
+		<key>unitDelay</key>
+		<real>0.12</real>
+		<key>filenamePrefix</key>
+		<string>TowerIce_</string>
+	</dict>
+	<key>firingAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,4,5,4,3,2,1</string>
+		<key>unitDelay</key>
+		<real>0.05</real>
+		<key>filenamePrefix</key>
+		<string>bulletice_firing_</string>
+	</dict>
+	<key>bulletEffectAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,2</string>
+		<key>unitDelay</key>
+		<real>0.08</real>
+		<key>filenamePrefix</key>
+		<string>bulletice_effect_</string>
+	</dict>
+</dict>
+</plist>

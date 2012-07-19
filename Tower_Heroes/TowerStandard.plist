@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletEffectAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,2</string>
+		<key>unitDelay</key>
+		<real>0.08</real>
+		<key>filenamePrefix</key>
+		<string>bulletstandard_effect_</string>
+	</dict>
+	<key>bulletImpactAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,4</string>
+		<key>unitDelay</key>
+		<real>0.09</real>
+		<key>filenamePrefix</key>
+		<string>bulletstandard_impact_</string>
+	</dict>
+	<key>bulletCritAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3,4,3,2</string>
+		<key>unitDelay</key>
+		<string>0.08</string>
+		<key>filenamePrefix</key>
+		<string>bulletstandard_impact_ae_</string>
+	</dict>
+</dict>
+</plist>

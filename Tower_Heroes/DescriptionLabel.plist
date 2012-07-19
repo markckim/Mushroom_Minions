@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TowerStandard</key>
+	<string>None</string>
+	<key>TowerIce</key>
+	<string>None</string>
+	<key>TowerBomb</key>
+	<string>None</string>
+	<key>Overclock</key>
+	<string>Overclock: Cast on tower to gain 40% firing rate for 20 sec. Cooldown: 10 sec.</string>
+	<key>Longshot</key>
+	<string>Longshot: Cast on tower to gain 100% tower range for 30 sec. Cooldown: 10 sec.</string>
+	<key>Mine</key>
+	<string>Mine: Cast on path to inflict 100 damage. Cooldown: 15 sec.</string>
+	<key>Blizzard</key>
+	<string>Blizzard: Cast on enemies to slow by 30% for 10 sec. Cooldown: 10 sec.</string>
+	<key>Poison</key>
+	<string>Poison: Cast on enemies to inflict 15 damage over 10 sec. Cooldown: 10 sec.</string>
+	<key>Smite</key>
+	<string>Smite: Cast on enemies to inflict 80 damage. Cooldown: 15 sec.</string>
+	<key>Rage</key>
+	<string>Rage: Cast on tower to gain 40% critical rating for 20 sec. Cooldown: 10 sec.</string>
+	<key>Slow</key>
+	<string>Slow: Cast on enemies to slow by 40% for 7 sec. Cooldown: 10 sec.</string>
+	<key>Meditate</key>
+	<string>Meditate: Cast on path. Bullets in area gain 40% critical rating. Cooldown: 15 sec.</string>
+</dict>
+</plist>

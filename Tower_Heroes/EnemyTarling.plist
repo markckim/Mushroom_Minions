@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movementAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2,3</string>
+		<key>unitDelay</key>
+		<real>0.15</real>
+		<key>filenamePrefix</key>
+		<string>tarling_</string>
+	</dict>
+	<key>frozenAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1,2</string>
+		<key>unitDelay</key>
+		<real>0.15</real>
+		<key>filenamePrefix</key>
+		<string>tarling_frozen_</string>
+	</dict>
+</dict>
+</plist>

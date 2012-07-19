@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hero Description 1</key>
+	<string>is a warrior specializing in explosives and tower efficiency.</string>
+	<key>Hero Description 2</key>
+	<string>is a mage capable of casting a range of spells in battle.</string>
+	<key>Hero Description 3</key>
+	<string>is an assassin trained to land critical hits with high accuracy.</string>
+	<key>Hero Static Power 1</key>
+	<string>Static Power: +5% accuracy to all towers</string>
+	<key>Hero Static Power 2</key>
+	<string>Static Power: +2 range to all towers</string>
+	<key>Hero Static Power 3</key>
+	<string>Static Power: increased firing rate after critical hit</string>
+</dict>
+</plist>
