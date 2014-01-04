@@ -1,19 +1,6 @@
 Mushroom_Minions
 ============
 
-The MIT License (MIT)
-Copyright (c) 2012 Mark Kim
+Mushroom Minions is a game where you are in control of a hero. Your hero is tasked to defend the land against an assortment of creatures ranging from semi-evil blobs of mud to amphibious, cape-wearing adversaries. Your tools include your trusty towers and your hero-specific abilities. 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
-documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
-the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
-to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of 
-the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-IN THE SOFTWARE.
+You can choose from up to 3 different heroes, each with unique playing styles from your typical warrior to mages and assassins. Heroes gain experience over time and your hero’s abilities can be improved as you gain more experience. In addition, your towers can be upgraded in a number of ways including its accuracy, damage, and chance to critically hit enemies.
