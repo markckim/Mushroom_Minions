@@ -7,4 +7,4 @@ You can choose from up to 3 different heroes, each with unique playing styles fr
 
 ![Mushroom Minions Screenshot 1](http://imgur.com/HUwT7S4.jpg?raw=true)
 
-Featured here: http://www.raywenderlich.com/16667/readers-app-reviews-july-2012
+Featured on Ray Wenderlich's website: http://www.raywenderlich.com/16667/readers-app-reviews-july-2012
