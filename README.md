@@ -7,6 +7,6 @@ You can choose from up to 3 different heroes, each with unique playing styles fr
 
 ![Mushroom Minions Screenshot 1](http://imgur.com/HUwT7S4.jpg?raw=true)
 
-Featured on Ray Wenderlich's website: http://www.raywenderlich.com/16667/readers-app-reviews-july-2012
++ Featured on Ray Wenderlich's website: http://www.raywenderlich.com/16667/readers-app-reviews-july-2012
 
-Link to App Store: https://itunes.apple.com/us/app/mushroom-minions/id531581046
++ Link to the App Store: https://itunes.apple.com/us/app/mushroom-minions/id531581046
